@@ -1,0 +1,28 @@
+.title-logo {
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+
+.title-logo:hover {
+    color: darksalmon;
+}
+
+.login-logout-link {
+    text-decoration: none;
+    color: rgb(240, 248, 255, 0.6);
+    padding: 0 15px;
+}
+
+.login-logout-link:hover {
+    color: aliceblue;
+}
+
+.user-name {
+    color: rgb(240, 248, 255, 0.6);
+    padding: 0 15px;
+}
+
+.user-name:hover {
+    color: aliceblue;
+}

@@ -1,0 +1,10 @@
+.find-us-on {
+    background-color: rgb(220, 220, 220, 0.3);
+    border: none;
+    border-radius: 0;
+}
+
+.find-us-on:hover {
+    background-color: rgb(220, 220, 220, 0.6);
+
+}
